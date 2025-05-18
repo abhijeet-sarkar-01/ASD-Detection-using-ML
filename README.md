@@ -6,9 +6,9 @@ This project explores the detection of Autism Spectrum Disorder (ASD) through ma
 
 ## 📂 Project Structure
 
-- `models on the questionnaire dataset/`: ML models applied to structured questionnaire data (CSV format)
-- `models on the ABIDE dataset/`: Feature extraction and classification on ABIDE fMRI data using Nilearn
-- `datasets/`: datasets used
+- `models on the questionnaire dataset`: ML models applied to structured questionnaire data (CSV format)
+- `models on the ABIDE dataset`: Feature extraction and classification on ABIDE fMRI data using Nilearn
+- `datasets`: datasets used
 - `project report`: report files (both .pdf and .docx)
 
 ---
